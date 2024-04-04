@@ -12,8 +12,6 @@
 | 1 | Iniciar sesión                    | Como usuario, necesito iniciar sesión para poder acceder a la plataforma del juego de  XXX.| ALTO | 3.5 horas | 5 horas | En curso | Piero Pilco |
 | 2 | Registro cuenta de usuario        | Como nuevo usuario, es necesario que mi cuenta se cree para que con esta pueda iniciar sesión. necesito crear una cuenta para que con esa misma pueda iniciar sesión.| ALTO | 3 horas | 5 horas | En curso | - |       
 | 3 | Cierre de sesión                  | Como usuario, necesito poder cerrar sesión para evitar accesos no autorizados si dejo mi sesión abierta accidentalmente.| ALTO | 2 horas | 3 horas | En curso | -  |
-
-
 | 5 | Juego multijugador                 | Como usuario, necesito poder jugar contra otros usuarios via online para disfrutar la experiencia multijugador.| MEDIO | 48 horas | 72 horas | Pendiente | No definido |
 | 7 | Juego vs CPU                    | Como usuario, tengo que poder jugar contra la CPU para practicar mis habilidades. | MEDIO | 48 horas | 72 horas | Pendiente | - |
 | 8 | Juego 1 vs 1 Local                       | Como jugador, necesito la capacidad de jugar al juego de damas contra otro usuario en la misma ubicación física para una partida multijugador local.| ALTO | 24 horas | 48 horas | Pendiente | - |
