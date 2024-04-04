@@ -32,8 +32,6 @@
 | 2 Registro cuenta de usuario | 2.4 | Prevención de creación de cuentas con información maliciosa. Dado un username no válido malicioso, una contraseña válida y una dirección de correo electrónico válida Cuando intento crear una cuenta con estos datos Entonces el sistema debería rechazar la creación de la cuenta.| En progreso | - |
 | 3 Cierre de sesión | 3.1 | Cierre de sesión exitoso. Dado la sesión abierta. Cuando selecciono la opción de Cerrar Sesión. Entonces el sistema debería cerrar mi sesión actual y redirigirme a la página de inicio de sesión automaticamente. | En progreso | - |
 | 3 Cierre de sesión | 3.2 | No acceso después del cierre de sesión. Dado que he cerrado sesión en mi cuenta Cuando intento acceder a páginas restringidas que requieren inicio de sesión Entonces el sistema no debería permitirme acceder a esas páginas. Y debería redirigirme a la página de inicio de sesión con un mensaje de "Debes inciar sesión primero".| En progreso |  |
-| 4 Visualización del tablero  |  4.1  | Inicializacion de un tablero de damas con las fichas en sus respectivas posiciones. Dada una nueva partida, se ubican las piezas en las posiciones por defecto. Entonces, se podra comezar una partida  | En progreso | -
-| 4 Visualización del tablero  |  4.2  | Visualizacion de la accion de click al momento de seleccionar una ficha. Dada una partida, al presionar sobre una pieza, podremos ver que se selecciona esta ficha.Entonces, podremos mover la pieza(a futuro)  | En progreso | -
 | 5 -        |    | | |
 | 6 Juego Multijudaor          |    | | |
 | 7 Juego con bot              |    | | |
